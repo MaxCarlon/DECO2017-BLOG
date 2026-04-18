@@ -1,6 +1,6 @@
 ---
 title: Breaking the brief
-date: 2026-04-17
+date: 2026-04-16
 author: Max Carlon
 summary: What are the key elements from the brief?
 tags:
