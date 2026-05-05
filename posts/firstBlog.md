@@ -43,3 +43,38 @@ What are some thing from the brief that I think are important to keep in mind du
   Communities that I am familiar with
 - anime, gaming, photography, 3D art, gamedev, NRL, daily games, cosmere, books, fantasy
   - ones I might want to think more on - cosmere and deadlock
+
+Breaking down the notes
+Key Functions
+- Community Hub
+  - Must be centered around shared interest and interaction beyond posting
+    - Drives engagement and aligns with BlaBla's value of information and experience
+    - Features must enable connection, content display is not enough
+
+- Information Curation
+  - Users see relevant and filtered content catered to them
+    - Reduces content noise -> members build connection - "Curating the right experience is what keeps them coming back."
+    - Requires emphasis on the quality of filters and tagging. Large logic workload - what is the performance cost?.
+
+Technical
+- Accessibility
+  - Must influence layout, contrast, navigation from the start
+  - Can easily be forgotten or missed for implementation
+
+- Performance
+  - Limits scale and size of data manipulation
+  - Be specific in what data is called or refreshed
+
+- Responsive Design
+  - Responsive for user experience and for device display
+  - Sacrifice visual fidelity for better functionality
+
+Bespoke Feature
+- Change how users interact, not just what they see
+- Community-specific
+- Directly affect information + experience
+
+- My direction
+  - Personalised filtering/tags
+  - User-specific feed behaviour
+  - Context aware posts (what users can see)

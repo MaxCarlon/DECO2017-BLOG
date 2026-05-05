@@ -35,22 +35,52 @@ After talking with Sam I think the cosmere option is the one I should pick. It s
 
 _______________
 
-My working Cosmere Feature
+Chosen Community - Cosmere
+- More feasible product - simple data model
+  - Series -> Books -> Tags
+- Less complex implementation compared to Deadlock API
+- Stong alignment with bespoke feature requirements - spoiler filtering
+- Better basis for community interaction
+  - Theories, discussions, fan art, etc.
+- Requires constructing data/content instead of relying on premade
+
+Cosmere Core Feature
+Spoiler tag/filter system
 - User selects books they have read
-  - posts are tagged by what information is relevant to which series/books
-    - spoiler potential posts are hidden from the user without the required book tag
+- Posts are tagged by book/series relevance
+- System filters out posts related to books that the user hasn't read
 
-Minimum Feature Elements
-- User profile bookcase
-- Post spoiler tags
-- List of cosmere related books
+- Improves user expreience (avoid spoilers)
+- Creates a safe place for users to engage in = encourages engagement
+- Meets information curation target
 
-Book tags persist on accounts and posts
+- Requires users to be consistent with tagging
+  - Potential need for moderation
+- Very negative user experience if filtering is incorrect (they get spoiled)
 
+Minimum Features Feasability
+- User account book tags
+- Post spoiler book tags
+- Filtering posts against accounts
+
+Implementation of features
+Core
+- Bookshelf - tracks read books
+- Post tagging system
+- Filtered feed
+
+Achievable Stretch
+- Series specific tabs
+- Links to other community relevant websites
+
+Most likely not achievable
+- Lore-based UI naming - Alternative titles and names to base
+- Interactivity from community websites - quizz results affects profile
+
+Cosmere and web app questions / exploration
 What I need to find out about Cosmere fans
 - How do they interact online (what websites, what is the culture)
 - What do they talk about (is it mostly fanart? theories? fanfic?)
-
 
 Where are posts made? On your profile? On a major posts page?
 - Is there a major posts page called Silverlight (lore tie in)? Do you world-hop to filter posts by series relevance? If someone has only read one book should it be called Silverlight/Shadesmar/Cognitive Realm - have a lore relevant tie in at the risk of potential spoiler references?
