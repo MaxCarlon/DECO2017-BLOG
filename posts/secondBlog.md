@@ -51,7 +51,6 @@ What I need to find out about Cosmere fans
 - How do they interact online (what websites, what is the culture)
 - What do they talk about (is it mostly fanart? theories? fanfic?)
 
-**INSERT POTENTIAL TASK FLOW DIAGRAMS I DREW - BUT REMAKE FOR A CLEAN VERSION
 
 Where are posts made? On your profile? On a major posts page?
 - Is there a major posts page called Silverlight (lore tie in)? Do you world-hop to filter posts by series relevance? If someone has only read one book should it be called Silverlight/Shadesmar/Cognitive Realm - have a lore relevant tie in at the risk of potential spoiler references?
@@ -59,7 +58,7 @@ Where are posts made? On your profile? On a major posts page?
 How are you selecting the relevant subpages and also selecting spoiler tags?
 - You can have relevant series top selection and then select the book up to where it doesn't spoil - Every book selected after is automatically selected 
 
-**INSERT POTENTIAL POST UI TAG BREAKDOWN - BUT REMAKE FOR A CLEAN VERSION
+![alt text](/assets/images/postDraft.png)
 
 Where do I want the default homepage to be?
 - Silverlight (the all posts page) - user directly enters where they can see the most content
@@ -67,4 +66,5 @@ Where do I want the default homepage to be?
   - least likes idea - adds a whole new page that I would have to fill out and seperates users from directly entering to where the content is
 - Account page - same idea as landing page but it is their "home" that they travel out of
 
-**INSERT VISUAL BREAKDOWN OF EACH OPTION  - BUT REMAKE FOR A CLEAN VERSION
+
+![alt text](/assets/images/webpageDraft.png)
