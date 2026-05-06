@@ -11,14 +11,14 @@ tags:
 Write your content here.
 
 
-![alt text](/assets/images/wireframeHome.png)
+![alt text](../assets/images/wireframeHome.png)
 
 
 
-![alt text](/assets/images/wireframeProfile.png)
+![alt text](../assets/images/wireframeProfile.png)
 
 
 
-![alt text](/assets/images/wireframePost.png)
+![alt text](../assets/images/wireframePost.png)
 
 

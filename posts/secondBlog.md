@@ -88,7 +88,7 @@ Where are posts made? On your profile? On a major posts page?
 How are you selecting the relevant subpages and also selecting spoiler tags?
 - You can have relevant series top selection and then select the book up to where it doesn't spoil - Every book selected after is automatically selected 
 
-![alt text](/assets/images/postDraft.png)
+![alt text](../assets/images/postDraft.png)
 
 Where do I want the default homepage to be?
 - Silverlight (the all posts page) - user directly enters where they can see the most content
@@ -97,4 +97,4 @@ Where do I want the default homepage to be?
 - Account page - same idea as landing page but it is their "home" that they travel out of
 
 
-![alt text](/assets/images/webpageDraft.png)
+![alt text](../assets/images/webpageDraft.png)
