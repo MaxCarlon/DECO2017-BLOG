@@ -11,14 +11,6 @@ tags:
 Write your content here.
 
 
-![alt text](../assets/images/wireframeHome.png)
-
-
-
-![alt text](../assets/images/wireframeProfile.png)
-
-
-
-![alt text](../assets/images/wireframePost.png)
-
-
+![Home wireframe](/DECO2017-BLOG/assets/images/wireframeHome.png)
+![Profile wireframe](/DECO2017-BLOG/assets/images/wireframeProfile.png)
+![Post wireframe](/DECO2017-BLOG/assets/images/wireframePost.png)
