@@ -1,5 +1,5 @@
 ---
-title: Community Exploration
+title: 2. Community Exploration
 date: 2026-04-17
 author: Max Carlon
 summary: Two communities and their potential design directions. Further exploration of chosen community. 
@@ -88,7 +88,7 @@ Where are posts made? On your profile? On a major posts page?
 How are you selecting the relevant subpages and also selecting spoiler tags?
 - You can have relevant series top selection and then select the book up to where it doesn't spoil - Every book selected after is automatically selected 
 
-![alt text](assets/images/postDraft.png)
+![Draft of Post](assets/images/postDraft.png)
 
 Where do I want the default homepage to be?
 - Silverlight (the all posts page) - user directly enters where they can see the most content
@@ -97,4 +97,4 @@ Where do I want the default homepage to be?
 - Account page - same idea as landing page but it is their "home" that they travel out of
 
 
-![alt text](assets/images/webpageDraft.png)
+![Draft of page flow](assets/images/webpageDraft.png)
