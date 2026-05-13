@@ -1,6 +1,6 @@
 ---
 title: 4. DDD and ERD pipeline
-date: 2026-02-14
+date: 2026-05-09
 author: Max Carlon
 summary: Taking the wireframes and identifying key data then defining their relationships
 tags:
@@ -44,6 +44,7 @@ Users store account information and connect to the books they have read. They ar
 Posts are the driving social functionality. We need post data for attaching spoiler tags to posts and for generic social functions like likes and comments.
 
 ![Entity Relationship Diagram](assets/images/ERD.png)
+
 This diagram shows the relationship between the tables more clearly
 
 The key elements of this are the user_read_books and post_spoilers tables. This is where the key functionality happens in the filtering of posts per account. It compares the books attached to a post’s spoiler tags against the books marked as read by the user.

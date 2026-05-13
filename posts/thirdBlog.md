@@ -10,7 +10,9 @@ tags:
 ---
 
 Home Page
+
 ![Home wireframe](assets/images/wireframeHome.png)
+
 I decided to follow a more traditional social media layout
 - profile circle icon, in the top right
 - Large home icon centered in nav bar
@@ -38,7 +40,9 @@ Non-standard
 
 
 Profile Page
+
 ![Profile wireframe](assets/images/wireframeProfile.png)
+
 I want to keep this page very simple. To get the minimum viable product there isn't a lot that needs to be added to the profile page. I just need the one big bookcase feature.
 - Consistent side bar navigation
 - Primarily focused on bookcase
@@ -62,7 +66,9 @@ Notes / Critiques
 
 
 ![Post wireframe](assets/images/wireframePost.png)
+
 Post Making
+
 Again I wanted to keep a relatively basic design, but I found it challenging where and how to incorporate the post tagging feature.
 - Clear structure - Title box, body box, x exit top right, post button bottom right
   - If I am adding additional and unfamiliar elements, the base should be simple and familiar
