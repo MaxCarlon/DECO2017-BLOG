@@ -4,9 +4,9 @@ date: 2026-04-17
 author: Max Carlon
 summary: Two communities and their potential design directions. Further exploration of chosen community. 
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - research
+  - community
+  - ideation
 ---
  Two community options breakdown
 Deadlock

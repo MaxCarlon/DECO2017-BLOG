@@ -4,9 +4,9 @@ date: 2026-05-17
 author: Max Carlon
 summary: Using LLMs to create the website
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - implementation
+  - testing
+  - ai workflows
 ---
 
 To account for my lack in technical skill, I decided to implement LLMs into my development process. This rapidly increased the speed at which the prototype could be iterated and allowed me to focus more heavily on the major design elements and user experience decisions. However, this also meant I needed to run additional testing and error checking to ensure that the generated code functioned correctly and accurately met the project brief.

@@ -4,9 +4,9 @@ date: 2026-05-01
 author: Max Carlon
 summary: Wireframe annotations and critique
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - wireframes
+  - UX UI
+  - interface
 ---
 
 Home Page

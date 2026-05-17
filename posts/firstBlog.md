@@ -4,9 +4,9 @@ date: 2026-04-16
 author: Max Carlon
 summary: What are the key elements from the brief?
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - brief analysis
+  - planning
+  - requirements
 ---
 What are some thing from the brief that I think are important to keep in mind during this design process? Why and in what way are these things valued? 
 
