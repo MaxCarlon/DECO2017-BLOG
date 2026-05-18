@@ -1,5 +1,5 @@
 :root {
-  --max-width: 720px;
+  --max-width: clamp(720px, 70vw, 1100px);
 
   color-scheme: light dark;
   --light-bg: #eeeeee;
@@ -63,7 +63,7 @@ ul.post-list{
 }
 
 main img {
-  max-width: 150%;
+  max-width: 100%;
   height: auto;
   display: block;
   margin: 2rem auto;
